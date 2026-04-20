@@ -9,7 +9,7 @@
 
 ## Part 1 — Foundation: เปลี่ยน Mindset ก่อนเปลี่ยน Password
 
-### บทความที่ 1: ทำไม Cybersecurity ถึงเป็น Life Skill ไม่ใช่แค่ IT Skill
+### [บทความที่ 1: ทำไม Cybersecurity ถึงเป็น Life Skill ไม่ใช่แค่ IT Skill](articles/01-cybersecurity-is-a-life-skill.md)
 
 - ทำไมคนทั่วไป (ไม่ใช่แค่ dev) ถึงต้องสนใจเรื่องนี้
 - Cybersecurity คือ **risk management** — เหมือนการล็อกบ้าน ใส่หมวกกันน็อค หรือตรวจสุขภาพ
