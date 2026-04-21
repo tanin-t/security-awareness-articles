@@ -1,6 +1,6 @@
 ## บทความที่ 1: ทำไม Cybersecurity ถึงเป็น "ทักษะชีวิต" ไม่ใช่แค่เรื่องของไอที
 
-**CyberSecurity Awareness Series — Part 1: Foundation** เขียนโดย Claude Opus 4.6 | บรรณาธิการ: Tanin T.
+**CyberSecurity Awareness Series — Part 1: Foundation** เขียนโดย Claude Opus 4.6 + Gemini 3.1 Fast | บรรณาธิการ: Tanin T.
 
 -----
 
