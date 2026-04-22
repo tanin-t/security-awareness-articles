@@ -21,7 +21,7 @@
 
 ## Part 2 — Password & Authentication: ด่านแรกที่คนส่วนใหญ่แพ้
 
-### บทความที่ 2: ทำไมห้ามใช้ Password ซ้ำ — และผลลัพธ์ที่คุณไม่อยากเจอ
+### [บทความที่ 2: ทำไมห้ามใช้ Password ซ้ำ — และผลลัพธ์ที่คุณไม่อยากเจอ](articles/02-why-reusing-passwords-is-dangerous.md)
 
 - **Credential stuffing** คืออะไร — เมื่อ password ที่หลุดจากเว็บหนึ่ง ถูกใช้เจาะอีกร้อยเว็บ
 - ตัวอย่างจาก data breach ที่เกิดขึ้นจริง (เช่น RockYou2024, Collection #1)
